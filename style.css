@@ -1,0 +1,123 @@
+.indexbody{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/KMK_3014.jpg/800px-KMK_3014.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+}
+
+.name{
+    text-align:center;
+    color:lightblue;
+}
+
+.profile{
+    Width:600px;
+    Height:700px;
+    Padding-left:700px;
+}
+
+.table{
+    text-align:center;
+    margin-left:700px;
+    width:600px;
+}
+
+.tableoc{
+    color:lightblue;
+}
+
+.awardsbody{
+    text-align:center;
+    background-image: url("https://kawai.com.au/wp-content/uploads/2023/05/Aging-piano-scaled-scaled.jpeg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+    
+}
+
+.microimage{
+    width:300px;
+    height:200px;
+}
+
+.awardstext{
+    color:orange;
+    font-family:cursive;
+}
+
+.aboutbody{
+    text-align:center;
+    background-image: url("https://cdn.prod.website-files.com/64627f3b125e141225b43493/659501597a4d47c6fe972c3f_CrimsonCliffsHigh-36.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+}
+
+.abouttext{
+    font-family:sans-serif;
+    color:darkblue;
+}
+
+.westjordan{
+    width:500px;
+    height:400px;
+}
+
+.samplebody{
+    text-align:center;
+    background-image: url("https://usa.yamaha.com/files/Main_Banner_1920px2_c2f932ffadba28e17dd0d1f6ca29dc83.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+    
+}
+
+.redsample{
+    color:red;
+}
+
+.activitiesbody{
+    text-align:center;
+    color:white;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f0/2021_LDS_Church%2C_21550_East_Queen_Creek_Road%2C_Queen_Creek.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+    
+}
+
+.pianoimage{
+    width:300px;
+    height:200px;
+    border:double;
+    border-color:blue;
+}
+
+.goalbody{
+    text-align:center;
+    background-image:url("https://cchs.washk12.org/cchs-v2/wp-content/themes/yootheme/cache/86/Main-Building-Exterior2-copy-scaled-86bc1ceb.jpeg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+}
+
+.byuimage{
+    width:500px;
+    height:400px;
+    margin-top:150px;
+}
+
+.wrestling{
+    width:500px;
+    height:400px;
+}
+
+.life{
+    color:orange;
+}
